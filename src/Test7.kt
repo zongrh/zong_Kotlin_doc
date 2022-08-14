@@ -12,7 +12,7 @@ interface MyInterface7_1 {
     fun bar()//已实现
     fun foo() {//未实现
         //可选择的方法体
-        println("foo")
+        println("foo/bar")
     }
 }
 
@@ -29,7 +29,7 @@ interface MyInterface7_2 {
     fun bar()
     fun foo() {
         //可选择的方法体
-        println("foo")
+        println("foo/bar")
     }
 }
 
@@ -72,7 +72,7 @@ interface MyInterface7_4 {
     var name: String //name属性，抽象的
     fun bar()
     fun foo() { //可选择的方法体
-        println("foo")
+        println("foo/bar")
     }
 }
 

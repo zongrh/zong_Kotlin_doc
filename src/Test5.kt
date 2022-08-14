@@ -20,7 +20,7 @@ class Empty2
 //可以在类中定义成员函数
 class Run {
     fun foo() {
-        println("foo")
+        println("foo/bar")
     }//成员函数
 }
 
